@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Analyst-Nkrumah
 - 👀 I’m interested in finanacial and business analyses
 - 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis project
+- 💞️ I’m looking forward to collaborate on data analysis project
 - 📫 You can reach me on kennethnkrumah70@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
